@@ -1,0 +1,9 @@
+{
+	"i_width" : 4000,
+	"i_height" : 3000,
+	"f" : -1,
+	"d_x" : 1.54e-3,
+	"d_y" : 1.52e-3,
+	"filepath" : "data/dataset-A.csv",
+	"model_name" : "dataset-A-parameters"
+}
